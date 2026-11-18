@@ -1,0 +1,23 @@
+CUSTOMER DATA QUALITY REPORT
+----------------------------
+
+report date:18-11-2026 
+report time:13:54:20
+Total records: 0
+Incomplete records: 0
+complete records: 0
+Total Emails:0
+Valid emails: 0
+Invalid emails: 0
+Duplicate emails: 0
+
+Malformed Rows :0
+
+Data Quality Percentage :0.00%
+Incomplete Percentage :0.00%
+valid Email Percentage :0.00%
+Duplicate Email Percentage :0.00%
+Unique Emails:0
+Unique Email Percentage :0.00%
+Processing Status:FAILED
+Report generated successfully.
